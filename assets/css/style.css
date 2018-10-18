@@ -281,26 +281,3 @@ a {
   padding: 16px 32px;
   font-family: 'Rokkitt', serif;
 }
-
-/*Media Queries*/
-/* Mobile Styles*/
-@media only screen and and (max-width: 400px) {
-	body {
-		background-color: #f09A9D; /*Red*/
-	}
-}
-
-/*Tablet Styles*/
-@media only screen and (min-width: 401px) and (max-width: 960px) {
-	body {
-		background-color: #F5CF8E; /*yellow*/
-	}
-}
-
-/*Desktop styles*/
-@media only screen and (min-width: 961px) {
-	body {
-		background-color: #B2D6FF; /*blue*/
-	}
-}
-
